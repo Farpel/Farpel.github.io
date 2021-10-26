@@ -27,7 +27,7 @@ This workshop will help you:
 2.  [Live Zotero Demonstration](#2-live-zotero-demonstration)
 3.  [Install Zotero](#3-install-zotero)
 4.  [Saving Citations](#4-saving-citations)
-5.  [Creating Bibliographies](#5creating-bibliographies)
+5.  [Creating Bibliographies](#5-creating-bibliographies)
 6.  [Syncing and Group Libraries](#6-syncing-and-groups)
 7.  [Workshop Wrap-up](#7-workshop-wrap-up)
 
@@ -35,7 +35,7 @@ This workshop will help you:
 
 Before you attend the workshop, please complete the following:
 
-1\. Watch the video below. This video provides a quick introduction to Zotero and shows you how to download Zotero.
+1\. [Watch this 4-minute introduction to Zotero](https://h5pstudio.ecampusontario.ca/h5p/22255/embed). This video provides a quick introduction to Zotero and shows you how to download Zotero.
 
 2\. [Download Zotero (zotero.org)](https://www.zotero.org/download/). Doing so will allow you to complete hands-on activities during the workshop.
 
@@ -49,7 +49,7 @@ For the best results, you should install both Zotero (the desktop program) and a
 
 For detailed instructions, see [Install Zotero (U of T library guide)](https://guides.library.utoronto.ca/zotero/install) for instructions.
 
-**_►_Try it yourself**
+**►Try it yourself**
 
 Install and open Zotero at least once before the workshop, so that you will be able to participate in the next activities yourself, alongside the instructor.
 
