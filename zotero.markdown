@@ -35,7 +35,7 @@ This workshop will help you:
 
 Before you attend the workshop, please complete the following:
 
-1\. [Watch this 4-minute introduction to Zotero](https://h5pstudio.ecampusontario.ca/h5p/22255/embed). This video provides a quick introduction to Zotero and shows you how to download Zotero.
+1\. Watch this 4-minute [introduction to Zotero](https://h5pstudio.ecampusontario.ca/h5p/22255/embed). This video provides a quick introduction to Zotero and shows you how to download Zotero.
 
 2\. [Download Zotero (zotero.org)](https://www.zotero.org/download/). Doing so will allow you to complete hands-on activities during the workshop.
 
