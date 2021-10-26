@@ -25,11 +25,11 @@ This workshop will help you:
 
 1.  [Workshop Preparation](#1-workshop-preparation)
 2.  [Live Zotero Demonstration](#2-live-zotero-demonstration)
-3.  [Install Zotero](#install_zotero)
-4.  [Saving Citations](#saving_citations)
-5.  [Creating Bibliographies](#creating_bibliographies)
-6.  [Syncing and Group Libraries](#syncing_and_groups)
-7.  [Workshop Wrap-up](#workshop_wrap-up)
+3.  [Install Zotero](#3-install-zotero)
+4.  [Saving Citations](#4-saving-citations)
+5.  [Creating Bibliographies](#5creating-bibliographies)
+6.  [Syncing and Group Libraries](#6-syncing-and-groups)
+7.  [Workshop Wrap-up](#7-workshop-wrap-up)
 
 ### 1\. Workshop Preparation
 
