@@ -23,8 +23,8 @@ This workshop will help you:
 
 ### Workshop Schedule
 
-1.  [Workshop Preparation](#workshop_preparation)
-2.  [Live Zotero Demonstration](#live_zotero_demonstration)
+1.  [Workshop Preparation](#1-workshop-preparation)
+2.  [Live Zotero Demonstration](#2-live-zotero-demonstration)
 3.  [Install Zotero](#install_zotero)
 4.  [Saving Citations](#saving_citations)
 5.  [Creating Bibliographies](#creating_bibliographies)
