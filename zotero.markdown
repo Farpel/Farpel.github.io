@@ -10,7 +10,7 @@ Periodically, we offer workshops to orient students to using Zotero. This guide 
 
 To learn even more about Zotero, read the [Library's Zotero Guide](https://guides.library.utoronto.ca/zotero)
 
-For questions or feedback about this Zotero workshop, please contact the [Engineering Library](mailto:engineering.library@utoronto.ca?subject=Re%3A%20Zotero%20Workshop%20LibGuide).
+For questions or feedback about this Zotero workshop, please contact [Peter Farrell](mailto:p.farrell@utoronto.ca?subject=Re%3A%20Zotero%20Workshop).
 
 ### Workshop Objectives
 
@@ -35,7 +35,7 @@ This workshop will help you:
 
 Before you attend the workshop, please complete the following:
 
-1\. Watch this 4-minute [introduction to Zotero](https://h5pstudio.ecampusontario.ca/h5p/22255/embed). This video provides a quick introduction to Zotero and shows you how to download Zotero.
+1\. Watch this 4-minute [Introduction to Zotero (external link)](https://h5pstudio.ecampusontario.ca/h5p/22255/embed). This video provides a quick introduction to Zotero and shows you how to download Zotero.
 
 2\. [Download Zotero (zotero.org)](https://www.zotero.org/download/). Doing so will allow you to complete hands-on activities during the workshop.
 
@@ -74,7 +74,7 @@ Zotero is able to save any reference you require for your work, including journa
 
 **TIP:** Zotero is not a perfect system and can make errors in the bibliographic information. **Be sure to check the record in your Library for errors or missing information.**
 
-For more, watch the video below or read about [Saving Citations (U of T library guide)](https://guides.library.utoronto.ca/zotero/save-citations).
+For more, read about [Saving Citations (U of T library guide)](https://guides.library.utoronto.ca/zotero/save-citations).
 
 ### 5\. Creating Bibliographies
 
